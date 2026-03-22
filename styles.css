@@ -1,0 +1,12 @@
+.ballet-<ballet> {
+  font-family: "Ballet", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+    font-family: "Ballet";
+    font-size: 10vw;
+    font-weight: normal;
+}
