@@ -16,11 +16,13 @@ h1 {
     font-size: 10vw;
     font-weight: normal;
     text-align: center;
+    padding-top: 40px;
 }
 
 body {
     font-family: "IBM Plex Mono";
     font-weight: normal;
+    text-align: center;
 }
 
 h2 {
@@ -29,4 +31,20 @@ h2 {
 
 .container {
   margin-top: 5vh;
+}
+
+img {
+  overflow: hidden;
+  max-width: 100%;
+  height: auto;
+}
+
+.imgside {
+  overflow: scroll;
+  max-height: 60vh;
+  width: 50%;
+}
+
+ul {
+  list-style-position: inside;
 }
